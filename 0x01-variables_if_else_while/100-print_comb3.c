@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-* main program that prints all possible different combinationof 2 digits
+* main - program that prints all possible different combinationof 2 digits
 * Return: 0
 */
 int main(void)
