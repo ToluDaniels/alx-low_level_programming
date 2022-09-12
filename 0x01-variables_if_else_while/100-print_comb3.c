@@ -21,7 +21,7 @@ int main(void)
 
 			if (c != 89)
 			{
-				putchar('.');
+				putchar(',');
 				putchar(' ');
 			}
 		}
