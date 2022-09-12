@@ -6,7 +6,7 @@
 int main(void)
 {
 	int c = 0;
-	inf f_d;
+	int f_d;
 	int l_d;
 
 	while (c <= 99)
