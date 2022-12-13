@@ -1,0 +1,15 @@
+0000000000000705 T add
+0000000000201030 B __bss_start
+                 w __cxa_finalize
+0000000000000742 T div
+0000000000201030 D _edata
+0000000000201038 B _end
+000000000000076c T _fini
+                 w __gmon_start__
+00000000000005c8 T _init
+                 w _ITM_deregisterTMCloneTable
+                 w _ITM_registerTMCloneTable
+                 w _Jv_RegisterClasses
+0000000000000755 T mod
+000000000000072f T mul
+0000000000000719 T sub
